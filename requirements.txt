@@ -1,2 +1,5 @@
-git+https://github.com/bitcoin-abe/bitcoin-abe#egg_name=Abe
-pycrypto
+git+https://github.com/bitcoin-abe/bitcoin-abe#egg=Abe
+MySQL-python==1.2.5
+flup==1.0.2
+pycrypto==2.6.1
+wsgiref==0.1.2
